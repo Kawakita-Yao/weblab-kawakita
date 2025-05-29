@@ -2,10 +2,10 @@
 
 ## Initial setup
 
-All teammates will need (explained in http://weblab.to/install)
-  - A bash console (on Mac or Linux, this is Terminal. On Windows, we recommend Git Bash)
+All teammates will need (explained in ~~http://weblab.to/install~~)
+  - A bash console (on Mac or Linux, this is **Terminal**✅. ~~On Windows, we recommend Git Bash~~)
   - NodeJS version 16. If it is installed correctly, typing "node --version" should give v16.13.1 and "npm --version" should give 8.1.2
-  - Visual Studio Code (or another code editor)
+  - Visual Studio Code✅ (or another code editor)
   - the Prettier VSCode extension
 
 Also, all of you will need to go through the MongoDB Atlas setup (http://weblab.to/mongo-setup). 
@@ -63,7 +63,7 @@ Then open http://localhost:5000
 
 ## How to go from this skeleton to your actual app
 Check out this [How to Get Started Guide](http://weblab.to/get-started)
-  
+
 ## Socket stuff
 Note: we'll be getting to this in lecture in week 2, so don't worry if you don't know it yet
 
