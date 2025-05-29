@@ -5,11 +5,11 @@
 All teammates will need (explained in ~~http://weblab.to/install~~)
   - ✅A bash console (on Mac or Linux, this is **Terminal**. ~~On Windows, we recommend Git Bash~~)
   - ✅生成了60天的token——不需要每次push的时候输入usr name和pwd了
-  - NodeJS version 16. If it is installed correctly, typing "node --version" should give v16.13.1 and "npm --version" should give 8.1.2
-  - Visual Studio Code✅ (or another code editor)
-  - the Prettier VSCode extension
+  - ✅NodeJS version 16. If it is installed correctly, typing "node --version" should give v16.13.1 and "npm --version" should give 8.1.2
+  - ✅Visual Studio Code (or another code editor)
+  - the **Prettier** VSCode extension
 
-Also, all of you will need to go through the MongoDB Atlas setup (http://weblab.to/mongo-setup). 
+Also, all of you will need to go through the <u>*MongoDB Atlas setup*</u> (~~http://weblab.to/mongo-setup~~). 
 
 Additionally for authentication, one of you will need to obtain a CLIENT_ID, instructions are at http://weblab.to/clientid 
 
